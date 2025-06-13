@@ -24,7 +24,7 @@
 </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBata&layout=compact&theme=radical&hide=html&langs_count=10" alt="DBata" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBata&layout=compact&theme=radical&langs_count=5" alt="DBata" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DBata&" alt="DBata" /></p>
